@@ -1,0 +1,122 @@
+{
+  "id": "609a2ec8c4bf4045a0e9a2cd9f98e4e1",
+  "case_id": "nike-01-lindora-run",
+  "title": "AWS Cloud Consulting Project Nike 01 Lindora Run",
+  "request_sha256": "6ac001c722a6ec1a227e13de289c12cd2923ae0852858189a55ce47c22b3b082",
+  "budget": {
+    "currency": "USD",
+    "total": "180000",
+    "accepted": true,
+    "lines": [
+      {
+        "name": "Honorarios de infraestructura de nube",
+        "amount": "45000"
+      },
+      {
+        "name": "Consumo de nube del 18 nov al 20 dic",
+        "amount": "6000"
+      },
+      {
+        "name": "Mantenimiento de nube del 18 nov al 20 dic",
+        "amount": "4000"
+      },
+      {
+        "name": "Fases de programación",
+        "amount": "105000"
+      },
+      {
+        "name": "Contingencia con autorización expresa",
+        "amount": "20000"
+      }
+    ],
+    "conditions": "Techo digital: USD 180.000, impuestos incluidos. Asignaciones: honorarios nube 45.000; consumo 6.000; mantenimiento 4.000; programación 105.000; contingencia 20.000. Las cinco suman el total. Consumo y mantenimiento cubren 18 nov-20 dic; contingencia solo con autorización. Honorarios: 40/30/30 %, equivalentes a USD 18.000 al inicio con contrato, 13.500 al aceptar diseño y costos y 13.500 al aceptar AWS operativo. Operación se paga aparte dentro de sus partidas. Son reservas del escenario; no una cotización validada."
+  },
+  "files": [
+    {
+      "name": "ficha-proyecto.pdf",
+      "sha256": "5f993165559ba847ab84c1cfead853d7a3e21f27fcec1c70ff825df6df52cf25"
+    },
+    {
+      "name": "resumen-reunion.pdf",
+      "sha256": "3a2d4e14c5867755e81e97ef0d9403a0ad1e1a551152a8a674b49b880fc5fb53"
+    },
+    {
+      "name": "presentacion.html",
+      "sha256": "5339440e8c3cb43bea4aedfefb907b1b54c4e4b5d96e3bfd6682d6cc2ebd6406"
+    },
+    {
+      "name": "transcripcion-reunion-nike.md",
+      "sha256": "3fd1ce0de3aed6a26b2b88352452dd846323e253c6ccd66d757be28c7704e5c7"
+    },
+    {
+      "name": "presentacion.pdf",
+      "sha256": "5f492c27902d225503b2b0822d1b2c2d9a3f6b21b10114118ec9ddab522a9247"
+    }
+  ],
+  "members": [
+    {
+      "slack_id": "UBOARD1",
+      "name": "Board Member 1"
+    },
+    {
+      "slack_id": "UBOARD2",
+      "name": "Board Member 2"
+    },
+    {
+      "slack_id": "UBOARD3",
+      "name": "Board Member 3"
+    },
+    {
+      "slack_id": "UBOARD4",
+      "name": "Board Member 4"
+    }
+  ],
+  "votes": {
+    "UBOARD1": {
+      "choice": "approve",
+      "action_ts": "1794181423.122411",
+      "voted_at": "2026-11-08T23:43:43.122411+00:00",
+      "received_at": "2026-11-08T23:43:43.122411+00:00",
+      "request_body_sha256": "1531c6940a87b46a549526b50a159e31b016682c2a4237c984bfee1d0abf2b81",
+      "signature_verified": true
+    },
+    "UBOARD2": {
+      "choice": "approve",
+      "action_ts": "1794181423.1442719",
+      "voted_at": "2026-11-08T23:43:43.144272+00:00",
+      "received_at": "2026-11-08T23:43:43.144272+00:00",
+      "request_body_sha256": "710bf1d9fca06f8d7958593545f6cc6798fb7ab96677543186178ee381d83bf1",
+      "signature_verified": true
+    },
+    "UBOARD3": {
+      "choice": "approve",
+      "action_ts": "1794181423.16527",
+      "voted_at": "2026-11-08T23:43:43.165270+00:00",
+      "received_at": "2026-11-08T23:43:43.165270+00:00",
+      "request_body_sha256": "d43ffabb090f5bd9dbe3bf75d3f659edd281b6c5448f09d346c457b6a6d13067",
+      "signature_verified": true
+    },
+    "UBOARD4": {
+      "choice": "approve",
+      "action_ts": "1794181423.186678",
+      "voted_at": "2026-11-08T23:43:43.186678+00:00",
+      "received_at": "2026-11-08T23:43:43.186678+00:00",
+      "request_body_sha256": "47e0f8c49eaa4fa03978899785c39a7486d0b2b21d6fb2d1f9a88a3cf12d412c",
+      "signature_verified": true
+    }
+  },
+  "rule": "unanimity",
+  "opened_at": 1794181423.1006021,
+  "closed_at": "2026-11-08T23:43:43.189433+00:00",
+  "status": "approved",
+  "is_simulated": true,
+  "team_id": "TPREVIEW",
+  "app_id": "APREVIEW",
+  "channel_id": "CPREVIEW",
+  "receipt": {
+    "channel": "CPREVIEW",
+    "ts": "1794181423.100602"
+  },
+  "review_url": "",
+  "digest": "d074a13f6a6ca419301d00901ab9b868b2e465bd25775eb6a7cbdd549f1066cd"
+}

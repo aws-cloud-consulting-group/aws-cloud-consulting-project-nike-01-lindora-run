@@ -1,8 +1,7 @@
-# AWS Cloud Consulting Project Template
+# AWS Cloud Consulting Project Nike 01 Lindora Run
 
-Template para los repositorios de proyectos de
-[AWS Cloud Consultant Agent](https://github.com/marcor0311/aws-cloud-consultant-agent).
+Proyecto creado desde [marcor0311/aws-cloud-consulting-project-template](https://github.com/marcor0311/aws-cloud-consulting-project-template).
 
-Por ahora proporciona la estructura inicial de carpetas. La definición del
-proceso se mantiene en el repositorio original; el contenido de cada fase se
-incorporará más adelante.
+Proyecto de [aws-cloud-consulting-group](https://github.com/aws-cloud-consulting-group).
+
+Los insumos aprobados están en `docs/01-discovery/`. El diseño se documenta en `docs/03-architecture/` y se revisa mediante PR.
